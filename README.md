@@ -6,7 +6,8 @@ The primary goal is to democratize access to this innovative technology that pla
 
 # Documentation:
 (RO) https://drive.google.com/file/d/1ozr5ss6TD7PaJcJHNaqzic1Qh808WX8L/view?usp=sharing
-Will sone come on the website
+---
+Will soon come on the website
 
 ---
 [2N2D API](https://github.com/2N2D/2N2D-API)
