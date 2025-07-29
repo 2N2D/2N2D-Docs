@@ -9,9 +9,9 @@ The primary goal is to democratize access to this innovative technology that pla
 ---
 https://2n2d.tml-soft.dev/docs
 ---
-[2N2D API](https://github.com/2N2D/2N2D-API)
-[2N2D WEB interface](https://github.com/2N2D/2N2D-WEB)
-[2N2D Legacy repo](https://github.com/2N2D/2N2D-Legacy)
+-[2N2D API](https://github.com/2N2D/2N2D-API)
+-[2N2D WEB interface](https://github.com/2N2D/2N2D-WEB)
+-[2N2D Legacy repo](https://github.com/2N2D/2N2D-Legacy)
 ---
 
 ## Features
